@@ -24,7 +24,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=7.0",
+        "php": ">=5.6",
         "ext-json": "*",
         "yiisoft/yii2": "^2.0.42",
         "bower-asset/bootstrap": "^5.1.0"
